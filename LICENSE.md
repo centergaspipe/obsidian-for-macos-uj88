@@ -1,4 +1,4 @@
-
+Enhance Obsidian for macOS with Obsidian for macOS custom Workflow: auto-sync & reminders, the #1 workflow. Includes auto-sync and reminders for a smoother experience.
 
 
 
